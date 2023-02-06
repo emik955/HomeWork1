@@ -1,0 +1,15 @@
+D:\Все о гите\DZ\DZ2\bin\Debug\net6.0\DZ2.exe
+D:\Все о гите\DZ\DZ2\bin\Debug\net6.0\DZ2.deps.json
+D:\Все о гите\DZ\DZ2\bin\Debug\net6.0\DZ2.runtimeconfig.json
+D:\Все о гите\DZ\DZ2\bin\Debug\net6.0\DZ2.dll
+D:\Все о гите\DZ\DZ2\bin\Debug\net6.0\DZ2.pdb
+D:\Все о гите\DZ\DZ2\obj\Debug\net6.0\DZ2.csproj.AssemblyReference.cache
+D:\Все о гите\DZ\DZ2\obj\Debug\net6.0\DZ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Все о гите\DZ\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfoInputs.cache
+D:\Все о гите\DZ\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfo.cs
+D:\Все о гите\DZ\DZ2\obj\Debug\net6.0\DZ2.csproj.CoreCompileInputs.cache
+D:\Все о гите\DZ\DZ2\obj\Debug\net6.0\DZ2.dll
+D:\Все о гите\DZ\DZ2\obj\Debug\net6.0\refint\DZ2.dll
+D:\Все о гите\DZ\DZ2\obj\Debug\net6.0\DZ2.pdb
+D:\Все о гите\DZ\DZ2\obj\Debug\net6.0\DZ2.genruntimeconfig.cache
+D:\Все о гите\DZ\DZ2\obj\Debug\net6.0\ref\DZ2.dll
