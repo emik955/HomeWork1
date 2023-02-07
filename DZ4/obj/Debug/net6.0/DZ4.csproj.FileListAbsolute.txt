@@ -1,0 +1,15 @@
+D:\Все о гите\DZ\DZ4\bin\Debug\net6.0\DZ4.exe
+D:\Все о гите\DZ\DZ4\bin\Debug\net6.0\DZ4.deps.json
+D:\Все о гите\DZ\DZ4\bin\Debug\net6.0\DZ4.runtimeconfig.json
+D:\Все о гите\DZ\DZ4\bin\Debug\net6.0\DZ4.dll
+D:\Все о гите\DZ\DZ4\bin\Debug\net6.0\DZ4.pdb
+D:\Все о гите\DZ\DZ4\obj\Debug\net6.0\DZ4.csproj.AssemblyReference.cache
+D:\Все о гите\DZ\DZ4\obj\Debug\net6.0\DZ4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Все о гите\DZ\DZ4\obj\Debug\net6.0\DZ4.AssemblyInfoInputs.cache
+D:\Все о гите\DZ\DZ4\obj\Debug\net6.0\DZ4.AssemblyInfo.cs
+D:\Все о гите\DZ\DZ4\obj\Debug\net6.0\DZ4.csproj.CoreCompileInputs.cache
+D:\Все о гите\DZ\DZ4\obj\Debug\net6.0\DZ4.dll
+D:\Все о гите\DZ\DZ4\obj\Debug\net6.0\refint\DZ4.dll
+D:\Все о гите\DZ\DZ4\obj\Debug\net6.0\DZ4.pdb
+D:\Все о гите\DZ\DZ4\obj\Debug\net6.0\DZ4.genruntimeconfig.cache
+D:\Все о гите\DZ\DZ4\obj\Debug\net6.0\ref\DZ4.dll
